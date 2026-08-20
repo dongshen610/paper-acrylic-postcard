@@ -1,0 +1,4 @@
+interface:
+  display_name: "纸感丙烯明信片"
+  short_description: "将生活照片制作成原图与极简纸感丙烯插画收藏明信片"
+  default_prompt: "Use $paper-acrylic-postcard to turn this photo into a collectible paper-acrylic postcard."
